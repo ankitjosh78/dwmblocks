@@ -21,23 +21,23 @@ static const Block blocks[] = {
 
 /*    {"  ", "disk /home",      60,                    1}, */
 
-    {"🧠 ", "memory",            1,                    1},
+    {"🧠 ", "/home/ankit/.local/bin/memory",            1,                    1},
 
     //{"🖥 ", "cpu2",               2,                    1},
 
-    {"🌡", "cpu",                10,                   1},
+    {"🌡", "/home/ankit/.local/bin/cpu",                10,                   1},
 
     //{" 🌐 ", "bandwidth wlo1",   2,                    1},
 
-    {" ", "volume2",             1,                    10},
+    {" ", "/home/ankit/.local/bin/volume2",             1,                    10},
 
    // {" 🔆 ", "brightness",       6,                    1},
 
-    {"", "battery",              5,                    12},
+    {"", "/home/ankit/.local/bin/battery",              5,                    12},
 
-    {"🗓 ", "clock",              10,                   0},
+    {"🗓 ", "/home/ankit/.local/bin/clock",              10,                   0},
 
-    {"", "nettraf",             2,                    0},
+    {"", "/home/ankit/.local/bin/nettraf",             2,                    0},
 
     {"", "vpn",                  10,                   0},
 };
